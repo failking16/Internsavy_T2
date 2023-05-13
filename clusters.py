@@ -102,6 +102,3 @@ for i in range(len(y_predicted)):
     result[i] = colors[k]
     
 paint(x, y, result,'Y','Spending(1-100)','Final graph')
-
-# plt.bar(x, y, color=colors)
-
